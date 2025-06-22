@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+virtual_try_on/__init__.py
+virtual_try_on/body_segmentation.py
+virtual_try_on/clothes_segmentation.py
+virtual_try_on/data.py
+virtual_try_on/try_on.py
+virtual_try_on/utils.py
+virtual_try_on_outfit_change.egg-info/PKG-INFO
+virtual_try_on_outfit_change.egg-info/SOURCES.txt
+virtual_try_on_outfit_change.egg-info/dependency_links.txt
+virtual_try_on_outfit_change.egg-info/requires.txt
+virtual_try_on_outfit_change.egg-info/top_level.txt

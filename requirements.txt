@@ -1,0 +1,9 @@
+diffusers
+accelerate
+transformers
+insightface
+onnxruntime
+streamlit
+torch
+Pillow
+-e .
